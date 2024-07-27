@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, 👋 I'm Franda Christiano Siahaan
 
 <!--
 **Slovox/Slovox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,14 +6,15 @@
 Here are some ideas to get you started:
 -->
 
-[//]- 🔭 I’m currently working on ...
+## About Me
 - 🌱 I’m currently learning Network+ from CompTia
 - 👯 I’m looking to collaborate on Deep Learning
-[//]- 🤔 I’m looking for help with ...
-- 💬 Ask me about Formula 1
+- 💬 Ask me about Formula 1 and One Piece
+<!--
 //- 📫 How to reach me: ...
 //- 😄 Pronouns: ...
 //- ⚡ Fun fact: ...
+-->
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/franda-christiano-siahaan) 
