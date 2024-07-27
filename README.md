@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ## Previous Projects
-1. Bangkit Academy 2023 Capstone Project [iPlant](helmifalahh/iPlant-Capstone-Bangkit: iPlant - Bangkit Capstone Project C23-PS306)
+1. Bangkit Academy 2023 Capstone Project [iPlant](https://github.com/helmifalahh/iPlant-Capstone-Bangkit)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/franda-christiano-siahaan) 
