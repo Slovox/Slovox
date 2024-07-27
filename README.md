@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
+- 📚 Bangkit Academy 2023 Machine Learning Path student  
 - 🌱 I’m currently learning Network+ from CompTia
 - 👯 I’m looking to collaborate on Deep Learning
 - 💬 Ask me about Formula 1 and One Piece
@@ -15,6 +16,9 @@ Here are some ideas to get you started:
 //- 😄 Pronouns: ...
 //- ⚡ Fun fact: ...
 -->
+
+## Previous Projects
+1. Bangkit Academy 2023 Capstone Project [iPlant](helmifalahh/iPlant-Capstone-Bangkit: iPlant - Bangkit Capstone Project C23-PS306)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/franda-christiano-siahaan) 
